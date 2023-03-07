@@ -1,6 +1,8 @@
 #      DiscordJS V14 Handler
 
 ![Discord Shield](https://discordapp.com/api/guilds/1076890610855837746/widget.png?style=shield)
+![GitHub package.json version](https://img.shields.io/github/package-json/v/Digital-Code-Community/DiscordJS-v14-Handler?color=green&style=flat-square)
+
 
 Create a powerful Discord bot with ease using our Discord.js handler. Our handler is designed for both beginner and advanced developers with its simple interface and advanced features. With built-in autocomplete and modal functionality, you can quickly and easily create and manage commands for your bot. Get started today and take your Discord bot to the next level! [Want help? feel free to ask](https://discord.gg/Fy5mqEBjkS)
 
