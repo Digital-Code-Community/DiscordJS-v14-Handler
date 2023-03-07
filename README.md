@@ -3,7 +3,7 @@
 ![Discord Shield](https://discordapp.com/api/guilds/1076890610855837746/widget.png?style=shield)
 ![Version](https://img.shields.io/static/v1?label=Version&message=1.1.0&color=blue)
 ![DJS](https://img.shields.io/badge/Discord.js-14.7.1-green)
-![Status](https://img.shields.io/badge/Status-Readt%20to%20work!-green)
+![Status](https://img.shields.io/badge/Status-Ready%20to%20work!-green)
 
 Create a powerful Discord bot with ease using our Discord.js handler. Our handler is designed for both beginner and advanced developers with its simple interface and advanced features. With built-in autocomplete and modal functionality, you can quickly and easily create and manage commands for your bot. Get started today and take your Discord bot to the next level! [Want help? feel free to ask](https://discord.gg/Fy5mqEBjkS)
 
