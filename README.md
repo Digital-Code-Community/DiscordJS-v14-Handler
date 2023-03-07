@@ -56,7 +56,7 @@ module.exports = {
 
 ```
 
-- After that install these packages:
+- After that install these packages by using `npm int`, `npm install` command:
 
     - discord.js
 
