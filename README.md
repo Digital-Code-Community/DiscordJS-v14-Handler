@@ -73,7 +73,7 @@ module.exports = {
 - Finally, use the command `node .` to run your bot and start using the Discord.js handler.
 
 # Guide
-
+If you want to our handler in replit then [click here](https://replit.com/@yuvrajrastogi7/DiscordJS-v14-Handler).
 After setup is complete, you can start adding commands and events to your bot. Here's where to put them:
 
 - `Commands/Slash/`: for adding slash commands
