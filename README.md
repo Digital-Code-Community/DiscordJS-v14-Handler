@@ -8,7 +8,7 @@
 
 Create a powerful Discord bot with ease using our Discord.js handler. Our handler is designed for both beginner and advanced developers with its simple interface and advanced features. With built-in autocomplete and modal functionality, you can quickly and easily create and manage commands for your bot. Get started today and take your Discord bot to the next level! [Want help? feel free to ask](https://discord.gg/Fy5mqEBjkS)
 
-** For Replit:** [Click here](https://replit.com/@yuvrajrastogi7/DiscordJS-v14-Handler)
+**For Replit:** [Click here](https://replit.com/@yuvrajrastogi7/DiscordJS-v14-Handler)
 
 - Simple interface for both beginner and advanced developers
 
