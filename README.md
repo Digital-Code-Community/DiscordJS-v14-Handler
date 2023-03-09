@@ -39,21 +39,13 @@ Note: If you don't want to use a `.env` file, you can modify the `Config/bot.js`
 ```js
 
 require("dotenv").config();
-
 module.exports = {
-
   TOKEN:
-
     process.env.TOKEN || "Token_Here", // Replace (Token_Here) to your bot token 
-
   PREFIX: process.env.PREFIX || ",",
-
   Slash: {
-
     Global: true, // set false for loading slash command in your testing guild make sure you add your server id
-
     GuildID: process.env.GuildID || "ID", // Your testing Server ID
-
   },
 
 };
@@ -74,6 +66,7 @@ module.exports = {
 
 # Guide
 If you want to our handler in replit then [click here](https://replit.com/@yuvrajrastogi7/DiscordJS-v14-Handler).
+
 After setup is complete, you can start adding commands and events to your bot. Here's where to put them:
 
 - `Commands/Slash/`: for adding slash commands
@@ -91,25 +84,15 @@ To get started, simply create a new file in the appropriate folder and start wri
 ```js
 
 module.exports = {
-
     name: " ",
-
     description: " ",
-
     // ...
-
    run: async (args, client , interaction) => {
-
    interaction.reply({
-
           content: "Thanks for using our handler!",
-
           ephemeral: true // Can be false
-
   })
-
 }
-
 };
 
 ```
