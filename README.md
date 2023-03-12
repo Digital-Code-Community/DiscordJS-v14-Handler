@@ -1,7 +1,7 @@
 #      DiscordJS V14 Handler
 
 ![Discord Shield](https://discordapp.com/api/guilds/1076890610855837746/widget.png?style=shield)
-![Version](https://img.shields.io/static/v1?label=Version&message=1.0.0&color=blue)
+![Version](https://img.shields.io/static/v1?label=Version&message=1.2.0&color=blue)
 ![DJS](https://img.shields.io/badge/Discord.js-14.7.1-green)
 ![Status](https://img.shields.io/badge/Status-Ready%20to%20work!-green)
 ![Replit](https://img.shields.io/badge/Replit-000000?link=http://left&link=https://replit.com/@yuvrajrastogi7/DiscordJS-v14-Handler?style=for-the-badge&logo=replit&logoColor=white)
